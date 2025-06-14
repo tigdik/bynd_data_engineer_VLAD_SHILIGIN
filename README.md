@@ -7,7 +7,7 @@ This repository is a **minimal, production‑ready PySpark pipeline** that inges
 
 ```bash
 # 1. Clone and enter
-git clone <FORK-URL> bynd_data_engineer_VLAD_SHILIGIN
+git clone https://github.com/tigdik/bynd_data_engineer_VLAD_SHILIGIN.git bynd_data_engineer_VLAD_SHILIGIN
 cd bynd_data_engineer_VLAD_SHILIGIN
 
 # 2. Configure environment variables in
